@@ -142,16 +142,12 @@ section:nth-of-type(29) {
 section:nth-of-type(30) {
     height: 1000px;
 }
-
-
-
-
-
-
-
-
-
-
+section:nth-of-type(31) {
+    height: 1000px;
+}
+section:nth-of-type(32) {
+    height: 1000px;
+}
 
 .entered {
 	-webkit-animation: text-focus-in 1.5s cubic-bezier(0.550, 0.085, 0.680, 0.530) 0.2s both;
