@@ -39,7 +39,7 @@ h2 {
 }
 
 button {
-	  font-size: .65em;
+	font-size: .65em;
     background: lightgrey;
     display: inline-block;
     padding: 10px 15px;
@@ -63,6 +63,7 @@ section:nth-of-type(3) {
 }
 section:nth-of-type(4) {
     height: 1000px;
+    background-color: white;
 }
 section:nth-of-type(5) {
     height: 1000px;
@@ -72,30 +73,35 @@ section:nth-of-type(6) {
 }
 section:nth-of-type(7) {
     height: 1000px;
+    background-color: white;
 }
 section:nth-of-type(8) {
     height: 1000px;
 }
 section:nth-of-type(9) {
     height: 1000px;
+    background-color: white;
 }
 section:nth-of-type(10) {
     height: 1000px;
 }
 section:nth-of-type(11) {
     height: 1000px;
+    background-color: white;
 }
 section:nth-of-type(12) {
     height: 1000px;
 }
 section:nth-of-type(13) {
     height: 1000px;
+    background-color: white;
 }
 section:nth-of-type(14) {
     height: 1000px;
 }
 section:nth-of-type(15) {
     height: 1000px;
+    background-color: white;
 }
 section:nth-of-type(16) {
     height: 1000px;
@@ -105,12 +111,14 @@ section:nth-of-type(17) {
 }
 section:nth-of-type(18) {
     height: 1000px;
+    background-color: white;
 }
 section:nth-of-type(19) {
     height: 1000px;
 }
 section:nth-of-type(20) {
     height: 1000px;
+    background-color: white;
 }
 section:nth-of-type(21) {
     height: 1000px;
@@ -123,6 +131,7 @@ section:nth-of-type(23) {
 }
 section:nth-of-type(24) {
     height: 1000px;
+    background-color: white;
 }
 section:nth-of-type(25) {
     height: 1000px;
@@ -133,21 +142,7 @@ section:nth-of-type(26) {
 section:nth-of-type(27) {
     height: 1000px;
 }
-section:nth-of-type(28) {
-    height: 1000px;
-}
-section:nth-of-type(29) {
-    height: 1000px;
-}
-section:nth-of-type(30) {
-    height: 1000px;
-}
-section:nth-of-type(31) {
-    height: 1000px;
-}
-section:nth-of-type(32) {
-    height: 1000px;
-}
+
 
 .entered {
 	-webkit-animation: text-focus-in 1.5s cubic-bezier(0.550, 0.085, 0.680, 0.530) 0.2s both;
